@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
+  - text: "Life is 10% what happens to you and 90% how you react to it."
   - text: "Where’s your will to be weird?"
 
 me-img: "/img/me.JPG"
@@ -150,6 +150,8 @@ social:
     url: "https://twitter.com/ishanv11"
   - title: "github"
     url: "https://github.com/ishan11"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/ishanvasandani/"
 
 ############
 # 404 page #
