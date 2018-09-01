@@ -205,3 +205,8 @@ a:hover, a:focus, a:active {
  {
    background-color: #380101 !important;
  }
+
+ .interest, .awards
+ {
+   font-size: 20px;
+ }
